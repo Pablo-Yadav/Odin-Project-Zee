@@ -1,0 +1,86 @@
+*{
+margin: 0px;
+}
+.header{
+    background-color: #1F2937;
+    color:white;
+    padding: 20px;
+ }
+ .nav{
+    display:flex;
+    justify-content: space-between;
+    padding: 20px;
+ }
+ .h-right{
+    display:flex;
+    justify-content: space-around;
+ }
+ .hlink{
+    margin:10px;
+ }
+ .h-content{
+    display:flex;
+    justify-content: space-around;
+ }
+ .awesome{
+    width: 40vh;
+ }
+ .h-image{
+    background-color: grey;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .matter{ 
+    gap: 20px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .image{
+    height: 10vh;
+    border:2px solid rgb(73, 73, 250);
+    border-radius: 10px;
+ }
+ .cell{
+    width: 150px;
+    min-height: auto;
+ }
+ .container2{
+    background-color: #E5E7EB;
+    padding: 30px;
+    padding-left: 20vh;
+    padding-right: 20vh;
+ }
+ #quote{
+    font-size: 36px;
+    font-style: italic;
+    opacity: 0.5;
+ }
+ #author{
+     display:flex;
+     justify-content: flex-end;
+     align-items: center;
+ }
+ .signup{
+    background-color: rgb(53, 168, 213);
+    display:flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+ }
+ #signup-button1{
+    background-color: rgb(53, 168, 213);
+    border-radius: 10px;
+ }
+ #signup-button2{
+    background-color: rgb(53, 168, 213);
+    border-radius: 10px;
+    margin: 20px;
+ }
+ .copyright{
+    background-color: #1F2937;
+    padding: 2vh;
+    margin: 1vh;
+    text-align: center;
+    color: white;
+ }
